@@ -111,7 +111,7 @@ This project translates those principles into a robotic prototype through iterat
 
 ## 📚 References
 
-A full reference list and detailed analysis can be found in the [📄 Final Project Report](./Final Project Report.pdf)
+A full reference list and detailed analysis can be found in the [📄 Final Project Report](./FinalProjectReport.pdf)
 
 ---
 
