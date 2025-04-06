@@ -111,7 +111,7 @@ This project translates those principles into a robotic prototype through iterat
 
 ## 📚 References
 
-A full reference list and detailed analysis can be found in the [📄 Final Project Report](./FinalProjectReport.pdf)
+A full reference list and detailed analysis can be found in the [📄 Final Project Report](https://github.com/Niyati-Projects/Robotic_Bat/blob/main/Final%20Project%20Report.pdf) 
 
 ---
 
