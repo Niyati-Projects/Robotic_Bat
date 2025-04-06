@@ -3,9 +3,8 @@
 ### A Bio-Inspired, Multi-Modal Aerial Robot for Agile Mobility
 
 ![Project Status](https://img.shields.io/badge/status-Completed-brightgreen)
-![Repo Size](https://img.shields.io/github/repo-size/your-username/robotic-bat-flight)
+![Repo Size](https://img.shields.io/github/repo-size/Niyati20/Robotic_Bat)
 
-[🎥 **Watch Final Demo Video**](https://youtu.be/ZdsJeafwBmk)
 
 ---
 
