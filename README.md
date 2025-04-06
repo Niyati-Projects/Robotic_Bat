@@ -85,7 +85,7 @@ This project translates those principles into a robotic prototype through iterat
 
 ## 🔮 Future Scope
 
-- ⚙️ Import real CAD geometry into MuJoCo for full digital twin modeling  
+- ⚙️ Import real CAD geometry into MuJoCo for full digital twin modelling  
 - 🔋 Integrate a battery-based power system for untethered flight  
 - 📐 Improve parameter identification algorithms  
 - 🚀 Extend flapping to include lift-assisted forward propulsion
@@ -111,7 +111,7 @@ This project translates those principles into a robotic prototype through iterat
 
 ## 📚 References
 
-Full reference list and detailed analysis can be found in the [📄 Final Project Report](./Final_Project_Report.pdf)
+A full reference list and detailed analysis can be found in the [📄 Final Project Report](Final Project Report.pdf)
 
 ---
 
