@@ -46,16 +46,16 @@ This project translates those principles into a robotic prototype through iterat
 - **Material Testing**: Stiffness & compliance via load-displacement curves
 - **Glide Efficiency**: Assessed using assisted drop tests across membrane types
 - **Kinematic Simulation**: MuJoCo-generated animations of flapping behavior
-- **Control Logic**: Sinusoidal joint actuation using custom Python controller
+- **Control Logic**: Sinusoidal joint actuation using a custom Python controller
 - **Structural Evolution**: Balsa (v1) → PLA (v2) for load-bearing gear mesh
 
 ---
 
 ## 📸 Prototype Snapshots
 
-| Gliding Prototype | Flapping Prototype |
+| Prototype Mechanism | Final Mechanism |
 |-------------------|--------------------|
-| ![Glider](./images/glider_prototype.jpg) | ![Flapper](./images/flapping_prototype.jpg) |
+| ![Prototype]([./images/glider_prototype.jpg](https://github.com/Niyati-Projects/Robotic_Bat/blob/images/Prototype_Bat.jpg)) | ![Final](https://github.com/Niyati-Projects/Robotic_Bat/blob/images/Flapping%20Mechanism.jpg) |
 
 > _(Add actual images in `images/` folder and update paths above)_
 
@@ -65,7 +65,7 @@ This project translates those principles into a robotic prototype through iterat
 
 - `Python` – Data analysis, model fitting, and actuation control
 - `MuJoCo` – Dynamic simulation of mechanical joints
-- `SolidWorks` – 3D modeling and mass moment simulations
+- `SolidWorks` – 3D modelling and mass moment simulations
 - `ESP32` – Microcontroller control for wing flapping
 - `MATLAB` – Aerodynamic performance analysis
 - `Fusion 360` – 3D printing designs for PLA components
