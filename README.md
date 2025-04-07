@@ -55,7 +55,7 @@ This project translates those principles into a robotic prototype through iterat
 
 | Prototype Mechanism | Final Mechanism |
 |-------------------|--------------------|
-| ![Prototype]([./images/glider_prototype.jpg](https://github.com/Niyati-Projects/Robotic_Bat/images/Prototype_Bat.jpg)) | ![Final](https://github.com/Niyati-Projects/Robotic_Bat/images/Flapping%20Mechanism.jpg) |
+| ![Prototype](https://raw.githubusercontent.com/Niyati-Projects/Robotic_Bat/main/images/Prototype_Bat.jpg) | ![Final](https://raw.githubusercontent.com/Niyati-Projects/Robotic_Bat/main/images/Flapping%20Mechanism.jpg) |
 
 ---
 
